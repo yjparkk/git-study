@@ -1,1 +1,1 @@
-<script>alert(123)</scirpt>
+alert(123)
